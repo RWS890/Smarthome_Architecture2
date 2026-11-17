@@ -42,7 +42,19 @@ namespace SmartHomeController
         }
 
         // Methods
+        public void setBrightness() 
+        {
+        
+        }
+        public void setColour() 
+        {
+        
+        }
 
+        public override void GetStatus() 
+        {
+        
+        }
     }
 }
 
